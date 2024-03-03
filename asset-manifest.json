@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/start/static/css/main.90f3c5d9.css",
+    "main.js": "/start/static/js/main.cc2bb9de.js",
+    "static/js/592.d5ca3333.chunk.js": "/start/static/js/592.d5ca3333.chunk.js",
+    "static/media/fa-solid-900.ttf": "/start/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/pngtree-woman-avatar-with-smiling-face-picture-image_8225731.png": "/start/static/media/pngtree-woman-avatar-with-smiling-face-picture-image_8225731.7c338e9c135da6de1f80.png",
+    "static/media/fa-brands-400.ttf": "/start/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/start/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/start/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/start/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/poert1 (1).png": "/start/static/media/poert1 (1).4417330275f78faa31c3.png",
+    "static/media/port3.png": "/start/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/start/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/port2.png": "/start/static/media/port2.6554473016d32b343f02.png",
+    "static/media/fa-v4compatibility.ttf": "/start/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/start/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/start/index.html",
+    "main.90f3c5d9.css.map": "/start/static/css/main.90f3c5d9.css.map",
+    "main.cc2bb9de.js.map": "/start/static/js/main.cc2bb9de.js.map",
+    "592.d5ca3333.chunk.js.map": "/start/static/js/592.d5ca3333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f3c5d9.css",
+    "static/js/main.cc2bb9de.js"
+  ]
+}
